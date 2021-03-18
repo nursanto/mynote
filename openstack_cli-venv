@@ -1,0 +1,7 @@
+apt install python3-venv
+mkdir my-venv
+python3 -m venv my-venv
+source my-venv/bin/activate
+
+pip install -U pip
+pip install -r openstack_cli-requirements.txt

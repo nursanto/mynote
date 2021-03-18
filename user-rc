@@ -1,0 +1,12 @@
+export OS_PROJECT_DOMAIN_NAME=Default
+export OS_USER_DOMAIN_NAME=Default
+export OS_PROJECT_NAME=<project>
+export OS_TENANT_NAME=<project>
+export OS_USERNAME=<username>
+export OS_PASSWORD="password"
+export OS_AUTH_URL=https://ip-or-domain.com:5000/v3
+export OS_INTERFACE=public
+export OS_IDENTITY_API_VERSION=3
+export OS_REGION_NAME=RegionOne
+export OS_AUTH_PLUGIN=password
+export PS1='[\u@\h \W(<project>)]\$ '
